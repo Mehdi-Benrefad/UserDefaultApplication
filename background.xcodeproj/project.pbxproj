@@ -15,6 +15,7 @@
 		4F671B1B262D295D00032EB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F671B19262D295D00032EB3 /* LaunchScreen.storyboard */; };
 		4F671B26262D295D00032EB3 /* backgroundTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F671B25262D295D00032EB3 /* backgroundTests.swift */; };
 		4F671B31262D295D00032EB3 /* backgroundUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F671B30262D295D00032EB3 /* backgroundUITests.swift */; };
+		4F671B3F262D2ADD00032EB3 /* backgroundService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F671B3E262D2ADD00032EB3 /* backgroundService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4F671B2C262D295D00032EB3 /* backgroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = backgroundUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F671B30262D295D00032EB3 /* backgroundUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundUITests.swift; sourceTree = "<group>"; };
 		4F671B32262D295D00032EB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F671B3E262D2ADD00032EB3 /* backgroundService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				4F671B0E262D295400032EB3 /* AppDelegate.swift */,
 				4F671B10262D295400032EB3 /* SceneDelegate.swift */,
+				4F671B3E262D2ADD00032EB3 /* backgroundService.swift */,
 				4F671B12262D295400032EB3 /* ViewController.swift */,
 				4F671B14262D295400032EB3 /* Main.storyboard */,
 				4F671B17262D295D00032EB3 /* Assets.xcassets */,
@@ -262,6 +265,7 @@
 				4F671B13262D295400032EB3 /* ViewController.swift in Sources */,
 				4F671B0F262D295400032EB3 /* AppDelegate.swift in Sources */,
 				4F671B11262D295400032EB3 /* SceneDelegate.swift in Sources */,
+				4F671B3F262D2ADD00032EB3 /* backgroundService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
